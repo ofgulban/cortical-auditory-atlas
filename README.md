@@ -1,5 +1,5 @@
 # Human cortical auditory atlas
-Resources from our cortical auditory areas project that combines the gold-standard human histology images from [**JuBrain**](https://jubrain.fz-juelich.de) with state of the art in-vivo human magnetic resonance imaging (MRI) at ultra-high fields (7 Tesla). In this project:
+Resources from our cortical auditory areas project that combines the gold-standard human histology images from [**JuBrain**](https://jubrain.fz-juelich.de) with state of the art in-vivo human magnetic resonance imaging (MRI) at ultra-high fields (7 Tesla). More specifically:
 
 1. We use the individual brains to create a cyto-architectonic surface atlas that is optimized for the human auditory cortex:
 
