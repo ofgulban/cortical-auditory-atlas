@@ -10,8 +10,8 @@ Resources from our cortical auditory areas project that combines the gold-standa
 
 
 ## Atlas
-- [TODO: Group average surfaces]
-- [TODO: Group average surface areas]
+- [TODO: Link OSF group average surfaces]
+- [TODO: Link OSF group average surface areas]
 
 ## Data
 - Individual brain cytoarchitectonic areas on surface meshes from:  
@@ -29,4 +29,4 @@ If you benefit from this project in your own work, we would highly appreciate if
 
 - **Zachlod, D.**, Rüttgers, B., Bludau, S., Mohlberg, H., Langner, R., Zilles, K., & Amunts, K. (2020). Four new cytoarchitectonic areas surrounding the primary and early auditory cortex in human brains. Cortex, 128, 1–21. <https://doi.org/10.1016/j.cortex.2020.02.021>
 
-- If you use the source data please cite the corresponding datasets indicated in the **Data** section above in addition.
+- In addition, if you use the source data please cite the corresponding datasets indicated in the **Data** section above.

@@ -4,7 +4,7 @@ Follow these steps for running cortex based alignment (CBA) in BrainVoyager v20.
 
 ## Stage 1: Preparation for standard CBA
 
-1. [Prepare a mesh for CBA.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/PreparingAMeshForCBA.html).
+1. [Prepare a mesh for CBA.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/PreparingAMeshForCBA.html)
 
 2. [Morh the mesh to a sphere.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/MorphingAReconstructedCortexHemisphereToASphere.html)
 
