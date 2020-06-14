@@ -1,7 +1,8 @@
 # How to perform CBA+ surface alignment
 
+Follow these steps for running cortex based alignment (CBA) in BrainVoyager v20.4. If you are unfamiliar with CBA, see [this intorductory documentation](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CortexBasedAlignmentOfSulciAndGyri.html).
+
 ## Stage 1: Preparation for standard CBA
-Follow these steps for running cortex based alignment (CBA) in BrainVoyager v20.4. See [this intorductory documentation](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CortexBasedAlignmentOfSulciAndGyri.html) beforehand if you are unfamiliar with CBA.:
 
 1. [Prepare a mesh for CBA.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/PreparingAMeshForCBA.html).
 
@@ -14,6 +15,10 @@ Follow these steps for running cortex based alignment (CBA) in BrainVoyager v20.
 ## Stage 2: Additional preperation step required for CBA+
 
 5. Draw anatomical priors on meshes.
+
+[TODO: put one visual here]
+
+All the individual anatomical priors are available at: [TODO: insert link to OSF data]
 
 ## Stage 3: Running CBA+
 Note that each set of hemispheres are run separately. Which means that we have repeated this process twice.
