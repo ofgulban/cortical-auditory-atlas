@@ -1,17 +1,17 @@
 # Human cortical auditory atlas
 Resources from our cortical auditory areas project that combines the gold-standard human histology images from [**JuBrain**](https://jubrain.fz-juelich.de) with state of the art in-vivo human magnetic resonance imaging (MRI) at ultra-high fields (7 Tesla). More specifically:
 
-1. We use the individual brains to create a cyto-architectonic surface atlas that is optimized for the human auditory cortex:
+1. We use the individual hemispheres to create a cyto-architectonic surface atlas that is optimized for the human auditory cortex. This atlas is shared here as a resource for fellow researchers:
 
-[TODO: insert visual here]
+[TODO: visual showing left and right hemi. convoluted and inflated side by side]
 
-2. We make use of our atlas in combination with ultra-high field MRI to visualize the underlying in-vivo measurements such as myelination and tonotopy:
-
-[TODO: insert visual here]
+2. We make use of our atlas in combination with ultra-high field MRI to visualize the underlying in-vivo measurements such as myelination and tonotopy. This is done to exemplify a potential use case of our cytoarchitectonic atlas:
+<img src="visuals/invivo_group_with_atlas_areas.png" width=800/>
 
 
 ## Atlas
-- [TODO: Highlight surface atlas location]
+- [TODO: Group average surfaces]
+- [TODO: Group average surface areas]
 
 ## Data
 - Individual brain cytoarchitectonic areas on surface meshes from:  
@@ -21,7 +21,7 @@ Resources from our cortical auditory areas project that combines the gold-standa
 
 ## Methods
 
-- How to run [curvature based alignment with anatomical priors](resources/CBAplus_steps/README.md). We call this algorithm: **CBA+**.
+- How to run [curvature based alignment with anatomical priors](resources/CBAplus_steps/README.md) (CBA+). We used this method as implemented in BrainVoyager which is a commercial software, however by sharing our resources here we aim to help other researchers to implement this method on their own. Feel free to ask questions on this repository's issues page.
 
 ## Citation
 If you benefit from this project in your own work, we would highly appreciate if you cite the following two articles:
