@@ -19,13 +19,13 @@ Follow these steps for running cortex based alignment (CBA) in BrainVoyager v20.
 Note that each set of hemispheres are run separately. Which means that we have repeated this process twice.
 
 6. Load each hemisphere.
-<img src="run_CBAplus_step1.png" width=800/>
+<img src="run_CBAplus_step1.png" width=600/>
 
 7. Run rigid body alignment to make sure the starting point of CBAplus is optimized. We have used the default parameters as shown in the screenshot below.
-<img src="run_CBAplus_step2.png" width=800/>
+<img src="run_CBAplus_step2.png" width=600/>
 
 8. Run CBAplus by using the `fCBA` option and passing the anatomical priors generated in Stage 2. We have used the default parameters as shown in the screenshot below.
-<img src="run_CBAplus_step3.png" width=800/>
+<img src="run_CBAplus_step3.png" width=600/>
 
 ## Stage 4: Quality control
 The quality of the results depend on two major factors (in our experience):
