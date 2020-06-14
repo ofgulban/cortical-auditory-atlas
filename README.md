@@ -21,12 +21,13 @@ Resources from our cortical auditory areas project that combines the gold-standa
 
 ## Methods
 
-- How to run [curvature based alignment with anatomical priors](resources/CBAplus_steps/README.md) (CBA+). We used this method as implemented in BrainVoyager which is a commercial software, however by sharing our resources here we aim to help other researchers to implement this method on their own. Feel free to ask questions on this repository's issues page.
+- We created our surface atlas by incorporating anatomical priors into standard curvature based alignment pipeline as implemented in BrainVoyager 20.4. See [this document](resources/CBAplus_steps/README.md) for the steps involved. Since BrainVoyager is a commercial software which might not be available to all researchers, we share our resources here to help others implementing this method on their own. Feel free to ask questions on this repository's issues page.
 
 ## Citation
 If you benefit from this project in your own work, we would highly appreciate if you cite the following two articles:
-- **Zachlod, D.**, Rüttgers, B., Bludau, S., Mohlberg, H., Langner, R., Zilles, K., & Amunts, K. (2020). Four new cytoarchitectonic areas surrounding the primary and early auditory cortex in human brains. Cortex, 128, 1–21. <https://doi.org/10.1016/j.cortex.2020.02.021>
 
 - **Gulban, O.F.**, Goebel R., Moerel M., Zachlod D., Mohlberg H., Amunts K., De Martino F. (2020). Improving a probabilistic cytoarchitectonic atlas of auditory cortex using a novel method for inter-individual alignment. Biorxiv. <https://www.biorxiv.org/content/10.1101/2020.03.30.015313v1> (article under review)
+
+- **Zachlod, D.**, Rüttgers, B., Bludau, S., Mohlberg, H., Langner, R., Zilles, K., & Amunts, K. (2020). Four new cytoarchitectonic areas surrounding the primary and early auditory cortex in human brains. Cortex, 128, 1–21. <https://doi.org/10.1016/j.cortex.2020.02.021>
 
 - If you use the source data please cite the corresponding datasets indicated in the **Data** section above in addition.
