@@ -29,7 +29,7 @@ Note that each set of hemispheres are run separately. Which means that we have r
 7. Run rigid body alignment to make sure the starting point of CBAplus is optimized. We have used the default parameters as shown in the screenshot below.
 <img src="run_CBAplus_step2.png" width=600/>
 
-8. Run CBAplus by using the `fCBA` option and passing the anatomical priors generated in Stage 2. We have used the default parameters as shown in the screenshot below.
+8. Run CBAplus by using the `fCBA` option and passing the anatomical priors generated in Stage 2. We have used the default parameters as shown in the screenshot below. Note that although the user interface indicates `functional constraints`, we are not using functional MRI maps. We are only leveraging this functionality available in the program for passing our `anatomical priors` as `.poi` files as an additional constraint that is used in the alignment procedure.
 <img src="run_CBAplus_step3.png" width=600/>
 
 ## Stage 4: Quality control
