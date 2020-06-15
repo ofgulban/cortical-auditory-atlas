@@ -23,7 +23,7 @@ Resources from our cortical auditory areas project that combines the gold-standa
 <https://openneuro.org/datasets/ds001942/versions/1.2.0>
 
 ## Methods
-- We created our surface atlas by incorporating anatomical priors into standard curvature based alignment pipeline as implemented in BrainVoyager 20.4. See [this document](resources/CBAplus_steps/README.md) for the steps involved. Since BrainVoyager is a commercial software which might not be available to all researchers, we share our resources here to help others implementing this method on their own. Feel free to ask questions on this repository's issues page.
+- We created our surface atlas by incorporating anatomical priors into standard curvature based alignment pipeline as implemented in BrainVoyager 21.4. See [this document](resources/CBAplus_steps/README.md) for the steps involved. Since BrainVoyager is a commercial software which might not be available to all researchers, we share our resources here to help others implementing this method on their own. Feel free to ask questions on this repository's issues page.
 
 ## Citation
 If you benefit from this project in your own work, we would highly appreciate if you cite the following two articles:
