@@ -13,13 +13,13 @@ Resources from our cortical auditory areas project that combines the gold-standa
 
 
 ## Atlas
-- [TODO: Link OSF group average surfaces]
-- [TODO: Link OSF group average surface areas]
+- [TODO: Link group average surfaces]
+- [TODO: Link group average surface areas]
 
 ## Data
 - Individual brain cytoarchitectonic areas on surface meshes from:  
 <https://kg.ebrains.eu/search/instances/Dataset/ff71a4d1-ea14-4ed6-898e-b92d95b3c446>
-- Individual in-vivo 7T MRI images from:  
+- Individual in-vivo 7T MRI data from:  
 <https://openneuro.org/datasets/ds001942/versions/1.2.0>
 
 ## Methods
