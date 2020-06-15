@@ -3,10 +3,13 @@ Resources from our cortical auditory areas project that combines the gold-standa
 
 1. We use the individual hemispheres to create a cyto-architectonic surface atlas that is optimized for the human auditory cortex. This atlas is shared here as a resource for fellow researchers:
 
-[TODO: visual showing left and right hemi. convoluted and inflated side by side]
+<img src="visuals/invivo_RH.gif"/> \\
+
+<img src="visuals/invivo_LH.gif"/> \\
 
 2. We make use of our atlas in combination with ultra-high field MRI to visualize the underlying in-vivo measurements such as myelination and tonotopy. This is done to exemplify a potential use case of our cytoarchitectonic atlas:
-<img src="visuals/invivo_group_with_atlas_areas.png" width=800/>
+
+<img src="visuals/invivo_group_with_atlas_areas.png"/>
 
 
 ## Atlas
