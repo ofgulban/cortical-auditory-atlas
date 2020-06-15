@@ -1,6 +1,6 @@
 # How to perform CBA+ surface alignment
 
-Follow these steps for running cortex based alignment (CBA) in BrainVoyager v20.4. If you are unfamiliar with CBA, see [this intorductory documentation](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CortexBasedAlignmentOfSulciAndGyri.html).
+Follow these steps for running cortex based alignment (CBA) in `BrainVoyager v21.4`. If you are unfamiliar with CBA, see [this intorductory documentation](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CortexBasedAlignmentOfSulciAndGyri.html).
 
 ## Stage 1: Preparation for standard CBA
 
