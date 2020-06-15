@@ -15,10 +15,10 @@ Follow these steps for running cortex based alignment (CBA) in `BrainVoyager v21
 ## Stage 2: Additional preperation step required for CBA+
 
 5. Draw anatomical priors on meshes.
-
 [TODO: put one visual here]
 
-All the individual anatomical priors are available at: [TODO: insert link to OSF data]
+All the individual anatomical priors are available at:
+[TODO: insert link to OSF data]
 
 ## Stage 3: Running CBA+
 Note that each set of hemispheres are run separately. Which means that we have repeated this process twice.
