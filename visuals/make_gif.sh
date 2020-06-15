@@ -1,0 +1,1 @@
+convert -delay 500 -loop 0 LH*.png invivo_LH.gif
