@@ -13,8 +13,8 @@ Resources from our cortical auditory areas project that combines the gold-standa
 
 
 ## Atlas
-- [TODO: Link group average surfaces]
-- [TODO: Link group average surface areas]
+- See [this document](resources/surfaces_invivo/readme.md)
+- Then follow [this link]( https://osf.io/4mjpn/)
 
 ## Data
 - Individual brain cytoarchitectonic areas on surface meshes from:  
