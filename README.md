@@ -13,8 +13,8 @@ Resources from our cortical auditory areas project that combines the gold-standa
 
 
 ## Atlas
-- See [this document](resources/surfaces_invivo/readme.md)
-- Then follow [this link]( https://osf.io/4mjpn/)
+- See [this document](resources/surfaces_invivo/readme.md).
+- Then follow [this link]( https://osf.io/4mjpn/).
 
 ## Data
 - Individual brain cytoarchitectonic areas on surface meshes from:  
