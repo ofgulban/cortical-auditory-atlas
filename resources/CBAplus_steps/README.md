@@ -14,7 +14,7 @@ Follow these steps for running cortex based alignment (CBA) in `BrainVoyager v21
 
 ## Stage 2: Additional preperation step required for CBA+
 
-5. Draw anatomical priors on meshes.
+5. Draw anatomical priors on meshes by first enabling `draw on meshes` button then holding `ctrl` + clicking on desired vertices.
     - Draw Heschl's Gyrus (HG):
 
         <img src="draw_HG.gif" width=600/>
