@@ -17,19 +17,19 @@ Follow these steps for running cortex based alignment (CBA) in `BrainVoyager v21
 5. Draw anatomical priors on meshes.
     - Draw Heschl's Gyrus (HG):
 
-    <img src="draw_HG.gif" width=600/>
+        <img src="draw_HG.gif" width=600/>
 
     - Use `Define path-of-interest` window.
 
-    <img src="define_poi_window.png" width=300/>
+        <img src="define_poi_window.png" width=300/>
 
     - Draw superior temporal gyrus (STG):
 
-    <img src="draw_STG.gif" width=600/>
+        <img src="draw_STG.gif" width=600/>
 
     - Repeat for all anatomical priors:
 
-    <img src="draw_all.png" width=600/>
+        <img src="draw_all.png" width=600/>
 
 All the drawn individual anatomical priors are available at:
 - [Our OSF data repository](https://osf.io/4mjpn/) (see `individual_invivo_MRI_surface_data` folder).
