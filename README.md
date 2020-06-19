@@ -16,7 +16,7 @@ Resources from our cortical auditory areas project that combines the gold-standa
 - See [this document](resources/surfaces_invivo/readme.md).
 - Then follow [this link]( https://osf.io/4mjpn/).
 
-## Data
+## Source data
 - Individual brain cytoarchitectonic areas on surface meshes from:  
 <https://kg.ebrains.eu/search/instances/Dataset/ff71a4d1-ea14-4ed6-898e-b92d95b3c446>
 - Individual in-vivo 7T MRI data from:  
@@ -32,4 +32,4 @@ If you benefit from this project in your own work, we would highly appreciate if
 
 - **Zachlod, D.**, Rüttgers, B., Bludau, S., Mohlberg, H., Langner, R., Zilles, K., & Amunts, K. (2020). Four new cytoarchitectonic areas surrounding the primary and early auditory cortex in human brains. Cortex, 128, 1–21. <https://doi.org/10.1016/j.cortex.2020.02.021>
 
-- In addition, if you use the source data please cite the corresponding datasets indicated in the **Data** section above.
+- In addition, if you use the source data please cite the corresponding datasets indicated in the **Source Data** section above.
