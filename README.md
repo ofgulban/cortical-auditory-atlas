@@ -1,7 +1,7 @@
-# Human cortical auditory atlas
+# Human cortical (cytoarchitectonic) auditory atlas
 Resources from our cortical auditory areas project that combines the gold-standard human histology images from [**JuBrain**](https://jubrain.fz-juelich.de) with state of the art in-vivo human magnetic resonance imaging (MRI) at ultra-high fields (7 Tesla). More specifically:
 
-1. We use the individual hemispheres to create a cyto-architectonic surface atlas that is optimized for the human auditory cortex. This atlas is shared here as a resource for fellow researchers:
+1. We use **10 individual brains with cytoarchitectonically labelled areas** to create a surface atlas that is optimized for the human auditory cortex. This atlas is shared here as a resource for fellow researchers:
 
 <img src="visuals/invivo_RH.gif"/>
 
