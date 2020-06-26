@@ -12,7 +12,7 @@ Follow these steps for running cortex based alignment (CBA) in `BrainVoyager v21
 
 4. [Create multi-scale curvature maps.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CreatingCurvatureMapsForAlignment.html)
 
-## Stage 2: Additional preperation step required for CBA+
+## Stage 2: Additional preperation required for CBA+
 
 5. Draw anatomical priors on meshes by first enabling `draw on meshes` button then holding `ctrl` + clicking on desired vertices.
     - Draw Heschl's Gyrus (HG):
