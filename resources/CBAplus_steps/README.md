@@ -1,18 +1,18 @@
 # How to perform CBA+ surface alignment
 
-Follow these steps for running cortex based alignment (CBA) in `BrainVoyager v21.4`. If you are unfamiliar with CBA, see [this intorductory documentation](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CortexBasedAlignmentOfSulciAndGyri.html).
+Follow these steps for running cortex based alignment (CBA) in `BrainVoyager v21.4`. If you are unfamiliar with CBA, see [this introductory documentation](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CortexBasedAlignmentOfSulciAndGyri.html).
 
 ## Stage 1: Preparation for standard CBA
 
 1. [Prepare a mesh for CBA.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/PreparingAMeshForCBA.html)
 
-2. [Morh the mesh to a sphere.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/MorphingAReconstructedCortexHemisphereToASphere.html)
+2. [Morph the mesh to a sphere.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/MorphingAReconstructedCortexHemisphereToASphere.html)
 
 3. [Map the spherical mesh onto the standard sphere mesh.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/MappingTheStandardSphereToAMorphedSphere.html)
 
 4. [Create multi-scale curvature maps.](https://www.brainvoyager.com/bv/doc/UsersGuide/CortexBasedAlignment/CreatingCurvatureMapsForAlignment.html)
 
-## Stage 2: Additional preperation required for CBA+
+## Stage 2: Additional preparation required for CBA+
 
 5. Draw anatomical priors on meshes by first enabling `draw on meshes` button then holding `ctrl` + clicking on desired vertices.
     - Draw Heschl's Gyrus (HG):
