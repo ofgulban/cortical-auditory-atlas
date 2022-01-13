@@ -30,7 +30,7 @@ Resources from our cortical auditory areas project that combines the gold-standa
 ## Citation
 If you benefit from this project in your own work, we would highly appreciate if you cite the following two articles:
 
-- **Gulban, O.F.**, Goebel R., Moerel M., Zachlod D., Mohlberg H., Amunts K., De Martino F. (2020). Improving a probabilistic cytoarchitectonic atlas of auditory cortex using a novel method for inter-individual alignment. Biorxiv. <https://www.biorxiv.org/content/10.1101/2020.03.30.015313v1> (article under review)
+- **Gulban, O.F.**, Goebel R., Moerel M., Zachlod D., Mohlberg H., Amunts K., De Martino F. (2020). Improving a probabilistic cytoarchitectonic atlas of auditory cortex using a novel method for inter-individual alignment. eLife. <https://elifesciences.org/articles/56963>
 
 - **Zachlod, D.**, Rüttgers, B., Bludau, S., Mohlberg, H., Langner, R., Zilles, K., & Amunts, K. (2020). Four new cytoarchitectonic areas surrounding the primary and early auditory cortex in human brains. Cortex, 128, 1–21. <https://doi.org/10.1016/j.cortex.2020.02.021>
 
